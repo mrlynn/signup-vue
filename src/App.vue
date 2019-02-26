@@ -29,7 +29,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #ffffff;
-  margin-top: 60px;
+  margin-top: 2rem;
 }
 .nav {
   height: 2rem;
